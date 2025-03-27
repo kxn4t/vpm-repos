@@ -1,28 +1,19 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Kanameliser VPM Packages",
+    "id":"net.kanameliser.vpm",
+    "url":"https://kxn4t.github.io/vpm-repos/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "name":"kxn4t",
+        "url":"https://github.com/kxn4t"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"A small set of useful Unity & VRChat tools",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/kxn4t/vpm-repos",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "kxn4t/kanameliser-editor-plus"
     ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
-    ]
+    "packages":[]
 }
